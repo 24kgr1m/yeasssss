@@ -1,0 +1,15 @@
+authtoken: 2dGQaRSGf3jEHcjOvV4JmD71r4s_RzDGkpVJjiwQA5LXXEAw
+version: 2
+tunnels:
+  your_tunnel_name: edge=edghts_2dHhqyewgavnYyee4cPsKHX7CN4
+    proto: http
+    hostname: moving-marlin-usable.ngrok-free.app
+    addr: 127.0.0.1:80
+
+    # -------------------------
+    # Additional options
+    # -------------------------
+    # auth: "24kgr1m:p@ssword!"
+    # host_header: rewrite
+    # inspect: true
+    # bind_tls: true
